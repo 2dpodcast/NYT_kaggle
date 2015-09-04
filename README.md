@@ -2,6 +2,7 @@
 
 * Kaggle competition (13 Apr - 4 May 2015)
 * Ranked 252/2923
+* R / Topic modelling / random forests
 
 What makes online news articles popular?
 Newspapers and online news aggregators like Google News need to understand which news articles will be the most popular, so that they can prioritize the order in which stories appear. In this competition, you will predict the popularity of a set of New York Times blog articles from the time period September-December 2014.
